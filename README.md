@@ -1,7 +1,11 @@
 <img src="https://i1.faceprep.in/ProGrad/progradjr-logo.png" height="30%" width="30%">
 
-# Groove Grocery online Shopping webpage | prework lesson
+# Groove Grocery online Shopping webpage | prework project
 This is the very 1st webpage on online shop coding for kids with ProGrad Junior.
+
+## concepts involved in this project
+- HTML Table
+- Introduction to JavaScript
 
 ## Assets
 - Background image 👉 [https://i1.faceprep.in/ProGrad/groove-bg.png](https://i1.faceprep.in/ProGrad/groove-bg.png)
